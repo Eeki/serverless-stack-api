@@ -6,9 +6,6 @@
   "scripts": {
     "test": "serverless-bundle test"
   },
-  "jest": {
-    "verbose": true
-  },
   "author": "Eliel Niukkanen",
   "license": "MIT",
   "repository": {
